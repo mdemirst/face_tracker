@@ -1,6 +1,6 @@
 # OpenCV Face Tracking with Kalman Filter
 
-#Quick start
+# Quick start
 ```
 git clone git@github.com:mdemirst/face_tracker.git
 cd face_tracker
